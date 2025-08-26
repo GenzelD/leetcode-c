@@ -16,7 +16,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 
   ## ✅ Progress Tracker
 - [x] Two Sum
-- [x] Reverse Linked List
+- [ ] Reverse Linked List
 - [ ] Longest Increasing Subsequence
 - [ ] Coin Change
 - [ ] Word Break
